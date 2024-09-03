@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Serey. I'm from Russia.
+- 👋 Hi, I’m Sergey. I'm from Russia.
 - 👀 I’m interested in web-programming.
 - 🌱 I'm going to study Kotlin, Spring Boot & Spring Cloud...
 - 💞️ I’m looking to collaborate on development of mobile and web applications
